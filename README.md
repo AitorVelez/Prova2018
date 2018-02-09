@@ -20,4 +20,8 @@ TODO: Write credits
 TODO: Write license
 ]]></content>
   <tabTrigger>readme</tabTrigger>
+<<<<<<< HEAD
 </snippet>
+=======
+</snippet>
+>>>>>>> origin/master
