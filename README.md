@@ -1,7 +1,4 @@
-<snippet>
-    
- 
-### Project Name
+ # Project Name
 
 
 
