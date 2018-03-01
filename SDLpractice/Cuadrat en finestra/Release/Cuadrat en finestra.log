@@ -1,0 +1,7 @@
+﻿  main.cpp
+main.cpp(12): warning C4101: 's': variable local sin referencia
+     Creando biblioteca D:\Users\Mi Pc\Desktop\SDLpractice\Cuadrat en finestra\Release\Cuadrat en finestra.lib y objeto D:\Users\Mi Pc\Desktop\SDLpractice\Cuadrat en finestra\Release\Cuadrat en finestra.exp
+  Generando código
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Cuadrat en finestra.vcxproj -> D:\Users\Mi Pc\Desktop\SDLpractice\Cuadrat en finestra\Release\Cuadrat en finestra.exe
