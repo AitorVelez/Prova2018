@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.cpp(11): warning C4101: 's': variable local sin referencia
+     Creando biblioteca D:\Users\Mi Pc\Desktop\SDLpractice\Cuadrat en finestra\Release\Cuadrat en finestra.lib y objeto D:\Users\Mi Pc\Desktop\SDLpractice\Cuadrat en finestra\Release\Cuadrat en finestra.exp
+  Generando código
+  1 of 11 functions ( 9.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Cuadrat en finestra.vcxproj -> D:\Users\Mi Pc\Desktop\SDLpractice\Cuadrat en finestra\Release\Cuadrat en finestra.exe
